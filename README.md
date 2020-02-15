@@ -1,6 +1,6 @@
-# Practice-daily-code-
+# 1 - Practice-daily-code-
 ### 12 Useful Pandas Techniques in Python for Data Manipulation
-1 – Boolean Indexing
-2 – Apply Function
+– Boolean Indexing
+– Apply Function
 
-# 100 Days Of Code
+# 2 - 100 Days Of Code
