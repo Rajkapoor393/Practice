@@ -6,5 +6,5 @@
 |02|Rotate Array|
 |03|Leaders in array|
 |04|Tapping Rain water|
-|||
+|05|Find the maximum(or minimum) sum of a subarray of size k |
 |||
