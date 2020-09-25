@@ -8,10 +8,8 @@
 |04|Tapping Rain water|
 |05|Find the maximum(or minimum) sum of a subarray of size k |
 
-Sliding Window Technique
-
+| |Sliding Window Technique|
 |---|--------------------|
-
 |06 | Find maximum(or minimum) of sub array -findMaxSum|
-
 |07 |N-Bonacci Numbers|
+|08 | subArraySum|
