@@ -14,3 +14,4 @@
 |07 |N-Bonacci Numbers|
 |08 | subArraySum|
 |09|prefixSum|
+|10 |Find an Equilibrium index of an array|
