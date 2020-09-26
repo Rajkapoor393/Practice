@@ -13,3 +13,4 @@
 |06 | Find maximum(or minimum) of sub array -findMaxSum|
 |07 |N-Bonacci Numbers|
 |08 | subArraySum|
+|09|prefixSum|
