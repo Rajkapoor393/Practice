@@ -16,3 +16,4 @@
 |08 | subArraySum|
 |09|prefixSum|
 |10 |Find an Equilibrium index of an array|
+|11 |find maximum occurred element in given N ranges. |
